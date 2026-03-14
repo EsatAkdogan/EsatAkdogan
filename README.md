@@ -69,7 +69,6 @@ class EsatAkdogan:
 
 </div>
 
-----------
 
 <div align="center">
 
