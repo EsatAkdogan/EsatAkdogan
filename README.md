@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Esat+Akdogan;AI+%26+ML+Developer;Building+intelligent+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Esat+Akdogan;AI+%26+ML+Developer;Building+intelligent+systems)](https://git.io/typing-svg)
 
 ## About Me
 
