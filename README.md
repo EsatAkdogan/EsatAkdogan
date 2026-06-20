@@ -15,12 +15,12 @@ class EsatAkdogan:
         self.languages   = ["Python", "C#"]
         self.frameworks  = ["PyTorch", "TensorFlow"]
         self.learning    = ["PyTorch", "LLMs", "Computer Vision", "Optimization with AI"]
-        self.interests   = ["Neural Networks", "NLP", "AI driven projects"]
+        self.interests   = ["Neural Networks", "NLP"]
 ```
 
 ## Current Focus
 
-<table> <tr> <td><b>Working on</b></td> <td><a href="">Turkey Regulation Tracking System</td> </tr> <tr> <td><b>Learning</b></td> <td> OpenClaw</td> </tr> <tr> <td><b>Exploring</b></td> <td>New AI driven technologies</td> </tr> <tr> <td><b>Portfolio</b></td> <td>Soon</td> </tr> </table>
+<table> <tr> <td><b>Working on</b></td> <td><a href="">Turkey Regulation Tracking System</td> </tr> <tr> <td><b>Learning</b></td> <td></td> </tr> <tr> <td><b>Exploring</b></td> <td></td> </tr> <tr> <td><b>Portfolio</b></td> <td>Soon</td> </tr> </table>
 
 
 ## Tech Stack
