@@ -59,7 +59,7 @@ class EsatAkdogan:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-EsatAkdogan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EsatAkdogan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet%20Esat%20Akdogan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-esat-akdo%C4%9Fan-0b4766341/)
+[![GitHub](https://img.shields.io/badge/GitHub-EsatAkdogan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EsatAkdogan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet%20Esat%20Akdogan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-esat-akdogan-0b4766341/)
 
 </div>
 
