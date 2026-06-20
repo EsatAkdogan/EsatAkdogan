@@ -4,13 +4,13 @@
 
 ```python
 class EsatAkdogan:
-        name = "Esat Akdogan"
+        name       = "Esat Akdogan"
         location   = "Turkey"
         role       = "AI & ML Developer"
-        languages  = ["Python", "C#"]
-        frameworks = ["PyTorch", "TensorFlow"]
-        learning   = ["PyTorch", "LLMs", "Computer Vision"]
-        interests  = ["Neural Networks", "NLP"]
+        languages  = "Python", "C#"
+        frameworks = "PyTorch", "TensorFlow"
+        learning   = "PyTorch", "LLMs", "Computer Vision"
+        interests  = "Neural Networks", "NLP"
 ```
 
 ## Current Focus
