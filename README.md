@@ -4,14 +4,13 @@
 
 ```python
 class EsatAkdogan:
-    def __init__(self):
-        self.name        = "Esat Akdogan"
-        self.location    = "Turkey"
-        self.role        = "AI & ML Developer"
-        self.languages   = ["Python", "C#"]
-        self.frameworks  = ["PyTorch", "TensorFlow"]
-        self.learning    = ["PyTorch", "LLMs", "Computer Vision"]
-        self.interests   = ["Neural Networks", "NLP"]
+        name = "Esat Akdogan"
+        location   = "Turkey"
+        role       = "AI & ML Developer"
+        languages  = ["Python", "C#"]
+        frameworks = ["PyTorch", "TensorFlow"]
+        learning   = ["PyTorch", "LLMs", "Computer Vision"]
+        interests  = ["Neural Networks", "NLP"]
 ```
 
 ## Current Focus
