@@ -6,11 +6,10 @@
 class EsatAkdogan:
         name       = "Esat Akdogan"
         location   = "Turkey"
-        role       = "AI & ML Developer"
-        languages  = "Python", "C#"
+        languages  = "Python", "C#", "Java"
         frameworks = "PyTorch", "TensorFlow"
         learning   = "PyTorch", "LLMs", "Computer Vision"
-        interests  = "Neural Networks", "NLP"
+        interests  = "Neural Networks", "Computer Vision"
 ```
 
 ## Current Focus
