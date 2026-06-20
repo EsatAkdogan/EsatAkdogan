@@ -14,7 +14,7 @@ class EsatAkdogan:
         self.role        = "AI & ML Developer"
         self.languages   = ["Python", "C#"]
         self.frameworks  = ["PyTorch", "TensorFlow"]
-        self.learning    = ["PyTorch", "LLMs", "Computer Vision", "Optimization with AI"]
+        self.learning    = ["PyTorch", "LLMs", "Computer Vision"]
         self.interests   = ["Neural Networks", "NLP"]
 ```
 
