@@ -29,7 +29,7 @@ class EsatAkdogan:
 
 </div>
 
-## Connect With Me
+## My Links
 
 <div align="center">
 
