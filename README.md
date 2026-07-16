@@ -10,8 +10,8 @@ class EsatAkdogan:
         location   = "Turkey"
         languages  = "Python", "C#", "Java"
         frameworks = "PyTorch", "TensorFlow"
-        learning   = "PyTorch", "LLMs", "Computer Vision"
-        interests  = "Neural Networks", "Computer Vision"
+        learning   = "Computer Vision"
+        interests  = "AI", "Data Science"
 ```
 
 
