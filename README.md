@@ -14,9 +14,6 @@ class EsatAkdogan:
         interests  = "Neural Networks", "Computer Vision"
 ```
 
-## Current Focus
-
-<table> <tr> <td><b>Working on</b></td> <td><a href=""></td> </tr> <tr> <td><b>Learning</b></td> <td></td> </tr> <tr> <td><b>Portfolio</b></td> <td>Soon</td> </tr> </table>
 
 
 ## Tech Stack
