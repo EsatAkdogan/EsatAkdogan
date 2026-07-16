@@ -34,15 +34,6 @@ class EsatAkdogan:
 
 <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EsatAkdogan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsatAkdogan&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/> </div> <div align="center"> <img width="100%" src="https://streak-stats.demolab.com?user=EsatAkdogan&theme=dark&hide_border=true&background=0D1117&dates=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/> </div>
 
-## Contribution Graph
-
-<div align="center">
-
-[![Esat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EsatAkdogan&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-
 ## Connect With Me
 
 <div align="center">
