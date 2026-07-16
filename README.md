@@ -15,7 +15,6 @@ class EsatAkdogan:
 ```
 
 
-
 ## Tech Stack
 
 <div align="center">
